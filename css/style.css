@@ -1,0 +1,47 @@
+body{background-color:black;
+      font-size:1px;
+font-family:'Roboto';}
+.headTop{color:white;
+font-size:5vw;
+font-weight:bolder;}
+.headSecond{ color:white;
+  font-size:3vw;
+ font-weight:bold;
+}
+.locale{color:white;
+  font-size:2vw;  
+}
+.tempDigit{
+color:white;
+  font-size:2vw;   
+}
+.tempWord{
+  color:white;
+  font-size:2vw;  
+}
+.tempIcon{
+  width:3vw;
+  height:3vw;
+  color:white;
+  font-size:2vw;
+}
+.footer{
+  color:white;
+  font-size:1vw;
+  
+}
+#celc{
+  font-size:2vw;
+  color:blue;
+}
+.table{
+  display:table;
+  }
+.cel{
+  display:table-cell;
+}
+.tempIcon{height:6vw;
+    width:8vw;}
+img{height:6vw;
+    width:8vw;}
+a{text-decoration:none;}
